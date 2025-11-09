@@ -570,7 +570,7 @@ def main():
             context_input = st.text_input(
                 "Tidak ada file? Masukkan topik yang ingin dipelajari:",
                 key="context_text",
-                placeholder="Contoh: Profesionalitas ASN, Sinkronisasi_Perencanaan ...",
+                placeholder="Contoh: Policy paper,...",
                 help="Deskripsikan topik yang ingin dipelajari"
             )
 
